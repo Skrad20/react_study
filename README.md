@@ -1,1 +1,1 @@
-# react_study
+# Учебные проекты по React
